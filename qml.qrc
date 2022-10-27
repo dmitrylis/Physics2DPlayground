@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/qml/main.qml</file>
+        <file>resources/qml/PhCppRenderer.qml</file>
+        <file>resources/qml/PhQmlRenderer.qml</file>
+        <file>resources/qml/PhObjectSpawner.js</file>
+        <file>resources/qml/types/PhEdge.qml</file>
+        <file>resources/qml/types/PhVertex.qml</file>
+        <file>resources/qml/controls/PhSlider.qml</file>
+        <file>resources/qml/controls/PhControlPanel.qml</file>
+    </qresource>
+</RCC>
